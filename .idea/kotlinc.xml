@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="KotlinCompilerSettings">
+    <option name="additionalArguments" value="-version -XXLanguage:-NewInference" />
+  </component>
+  <component name="KotlinJpsPluginSettings">
+    <option name="version" value="2.0.0" />
+  </component>
+</project>
