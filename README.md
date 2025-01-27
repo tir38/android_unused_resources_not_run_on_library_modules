@@ -1,5 +1,12 @@
 # UnusedResources is not being run on library modules
 
+-----
+
+Conversation on AOSP issue tracker: [https://issuetracker.google.com/issues/391955627](https://issuetracker.google.com/issues/391955627)
+
+-----
+
+
 This project has two modules `:app` and `:mylibrary`. The former applies `com.android.application` plugin; the later `com.application.library`
 
 
